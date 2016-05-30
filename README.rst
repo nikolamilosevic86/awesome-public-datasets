@@ -297,6 +297,7 @@ Image Processing
 Machine Learning
 ----------------
 
+* `Amazon Product reviews and matadata <http://jmcauley.ucsd.edu/data/amazon/>`_
 * `Delve Datasets for classification and regression (Univ. of Toronto) <http://www.cs.toronto.edu/~delve/data/datasets.html>`_
 * `Discogs Monthly Data <http://data.discogs.com/>`_
 * `eBay Online Auctions (2012) <http://www.modelingonlineauctions.com/datasets>`_
